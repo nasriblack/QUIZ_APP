@@ -27,6 +27,7 @@
 
 #### Other
 - [Github examples spring6](https://github.com/navinreddy20/spring6-course)
+- [Microservice spring](https://github.com/navinreddy20/MicroserviceTutorials)
 - [Github Microservice (index=11)](https://github.com/navinreddy20/MicroserviceTutorials)
 - [Github Java notes](https://github.com/navinreddy20/Javacode)
 
