@@ -47,6 +47,8 @@
   `Alt+Insert` → generate code
   alt + & => it's like ctr + b in vscode => toggle the left bar
 
+  alt + shif + up or down => it's like shift + up or down => move the ligne up and down 
+
 ## Core Java Essentials
 
 
