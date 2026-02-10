@@ -49,6 +49,8 @@
 
   alt + shif + up or down => it's like shift + up or down => move the ligne up and down 
 
+  ctrl + shift  + N => similar to ctrl + P in vscode => it open and write the name of the file you want to go 
+
 ## Core Java Essentials
 
 
