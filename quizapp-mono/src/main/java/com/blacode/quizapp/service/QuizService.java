@@ -41,12 +41,12 @@ public class QuizService {
         Optional<Quiz> quiz = quizDao.findById(id);
         List<Question> questionFromDb = quiz.get().getQuestions();
         List<QuestionWrapper> questionForUser = new ArrayList<>();
-        for(Question q : questionsFromDB){
+        for(Question q : questionFromDb){
             QuestionWrapper qw = new QuestionWrapper(q.getId(), q.getQuestionTitle(), q.getOption1(), q.getOption2(), q.getOption3(), q.getOption4());
-            questionsForUser.add(qw);
+            questionForUser.add(qw);
         }
 
-        return new ResponseEntity<>(questionsForUser, HttpStatus.OK);
+        return new ResponseEntity<>(questionForUser, HttpStatus.OK);
     }
 
     public ResponseEntity<Integer> calculateResult(Integer id, List<Response> responses) {
