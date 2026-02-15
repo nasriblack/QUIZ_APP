@@ -30,6 +30,7 @@
 - [Microservice spring](https://github.com/navinreddy20/MicroserviceTutorials)
 - [Github Microservice (index=11)](https://github.com/navinreddy20/MicroserviceTutorials)
 - [Github Java notes](https://github.com/navinreddy20/Javacode)
+- [Example of postgress](https://github.com/springframeworkguru/spring-boot-postgress-example/tree/master)
 
 
 ---
